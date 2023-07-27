@@ -5,7 +5,7 @@ En este desafio realicé un conversor de moneda utilizando como moneda base el P
 La aplicación no debe estar conectada a internet, ya que no consume  API REST 
 
 
-no Incluye también un conversor de temperaturas.
+no Incluye un conversor de temperaturas.
 
 
 Tecnologías 💻:
@@ -21,6 +21,7 @@ Tecnologías 💻:
 Pruebe el Proyecto JAR (Requerimientos JRE de Java):
 
 Para buen funcionamiento descargue desde el siguiente enlace:
+https://github.com/RAMIRANDACRUZ/Convertidor-De-Divisas.git
 
 
 
