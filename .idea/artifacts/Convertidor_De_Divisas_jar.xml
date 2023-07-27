@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Convertidor De Divisas:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Convertidor_De_Divisas_jar</output-path>
+    <root id="archive" name="Convertidor De Divisas.jar">
+      <element id="module-output" name="Convertidor De Divisas" />
+    </root>
+  </artifact>
+</component>
